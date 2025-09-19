@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 20.125, 17.875" name="TicketAppDB">
+  <DataContextMoniker Name="/TicketAppDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="56afe02f-da21-4bcb-92a3-ed9bf79e52f0" absoluteBounds="15.125, 10.625, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/TicketAppDBDataContext/InvoiceItem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="99b5a245-4b6b-4700-931d-12ebbec65c3a" absoluteBounds="15.14, 11.085, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5e3209d7-ae26-44fc-9c84-50ae3cbd8867" absoluteBounds="14.875, 7.25, 2, 2.5401025390624987">
+      <DataClassMoniker Name="/TicketAppDBDataContext/CartItem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="41e60716-d89c-4f0c-866a-38b3059be6f8" absoluteBounds="14.89, 7.7100000000000009, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e12328f3-f0f4-4dce-af2b-53143cfc0bee" absoluteBounds="9.375, 3.5, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/TicketAppDBDataContext/Cart" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fcdc4878-b24d-43b7-babe-3aacc7f1ef40" absoluteBounds="9.39, 3.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3f71aaf2-52ff-44b9-b11a-36bee8f91ad9" absoluteBounds="9.375, 10.5, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/TicketAppDBDataContext/Event" />
+      <nestedChildShapes>
+        <elementListCompartment Id="26a35357-66df-4013-8d7f-f5868f311fe7" absoluteBounds="9.39, 10.96, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4c9ddeab-3ceb-4aaa-b5c9-da70134c81d9" absoluteBounds="9.375, 6, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/TicketAppDBDataContext/Invoice" />
+      <nestedChildShapes>
+        <elementListCompartment Id="42ff1531-db55-484e-8678-50516fe40662" absoluteBounds="9.39, 6.4600000000000009, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="15fc5825-215b-4b01-aaad-9eccc0dc4de5" absoluteBounds="12.125, 6, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/TicketAppDBDataContext/Payment" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ffce1793-999e-413a-b168-e7ec65ae805a" absoluteBounds="12.14, 6.4600000000000009, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="81f9e433-1fba-42a2-9401-b84fcf49fc83" absoluteBounds="12.125, 15.125, 2, 2.5401025390625023">
+      <DataClassMoniker Name="/TicketAppDBDataContext/Promotion" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1a49880e-6b31-4905-82de-6a8eb2ef30cc" absoluteBounds="12.14, 15.585, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="de76bc56-10f5-4fc7-89bc-7ccec732830a" absoluteBounds="3.875, 8.5, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/TicketAppDBDataContext/Role" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f6c695fb-895f-4d61-8f24-4aadd9bae624" absoluteBounds="3.89, 8.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e299c367-a71e-4889-80e0-2745dfa31270" absoluteBounds="17.875, 8.375, 2, 2.9247054036458309">
+      <DataClassMoniker Name="/TicketAppDBDataContext/Ticket" />
+      <nestedChildShapes>
+        <elementListCompartment Id="abc9385a-26be-4de2-b050-3af32a931816" absoluteBounds="17.89, 8.835, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3373dbbb-6f86-43cf-8f6b-f05df9997ce0" absoluteBounds="12.125, 9.5, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/TicketAppDBDataContext/TicketType" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7179eec8-1af3-43ac-bd4a-fe84b3ca08f5" absoluteBounds="12.14, 9.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d4d81516-ca77-4d34-baa5-cb24c0e661db" absoluteBounds="6.625, 8.125, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/TicketAppDBDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="54cb853d-df83-43de-8b64-224efcf66012" absoluteBounds="6.6400000000000006, 8.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(11.375 : 4.38544840494792); (15.875 : 4.38544840494792); (15.875 : 7.25)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/Cart/Cart_CartItem" />
+      <nodes>
+        <classShapeMoniker Id="e12328f3-f0f4-4dce-af2b-53143cfc0bee" />
+        <classShapeMoniker Id="5e3209d7-ae26-44fc-9c84-50ae3cbd8867" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.375 : 12.1530989583333); (14.8854166666667 : 12.1530989583333 : JumpStart); (15.0520833333333 : 12.1530989583333 : JumpEnd); (15.125 : 12.1530989583333)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/Event/Event_InvoiceItem" />
+      <nodes>
+        <classShapeMoniker Id="3f71aaf2-52ff-44b9-b11a-36bee8f91ad9" />
+        <classShapeMoniker Id="56afe02f-da21-4bcb-92a3-ed9bf79e52f0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.375 : 13.3261539713542); (14.96875 : 13.3261539713542); (14.96875 : 9.7901025390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/Event/Event_CartItem" />
+      <nodes>
+        <classShapeMoniker Id="3f71aaf2-52ff-44b9-b11a-36bee8f91ad9" />
+        <classShapeMoniker Id="5e3209d7-ae26-44fc-9c84-50ae3cbd8867" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.375 : 8.73240397135417); (11.75 : 9.10740397135417); (11.75 : 11.7119953841146); (14.8854166666667 : 11.7119953841146 : JumpStart); (15.0520833333333 : 11.7119953841146 : JumpEnd); (15.125 : 11.7119953841146)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/Invoice/Invoice_InvoiceItem" />
+      <nodes>
+        <classShapeMoniker Id="4c9ddeab-3ceb-4aaa-b5c9-da70134c81d9" />
+        <classShapeMoniker Id="56afe02f-da21-4bcb-92a3-ed9bf79e52f0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.375 : 7.07774983723958); (12.125 : 7.07774983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/Invoice/Invoice_Payment" />
+      <nodes>
+        <classShapeMoniker Id="4c9ddeab-3ceb-4aaa-b5c9-da70134c81d9" />
+        <classShapeMoniker Id="15fc5825-215b-4b01-aaad-9eccc0dc4de5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.375 : 13.6170068359375); (10.375 : 16.3950512695313); (12.125 : 16.3950512695313)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/Event/Event_Promotion" />
+      <nodes>
+        <classShapeMoniker Id="3f71aaf2-52ff-44b9-b11a-36bee8f91ad9" />
+        <classShapeMoniker Id="81f9e433-1fba-42a2-9401-b84fcf49fc83" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(17.875 : 10.9623527018229); (17.125 : 10.9623527018229)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/Ticket/Ticket_InvoiceItem" />
+      <nodes>
+        <classShapeMoniker Id="e299c367-a71e-4889-80e0-2745dfa31270" />
+        <classShapeMoniker Id="56afe02f-da21-4bcb-92a3-ed9bf79e52f0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.375 : 13.1494750390625); (14.8854166666667 : 13.1494750390625 : JumpStart); (15.0520833333333 : 13.1494750390625 : JumpEnd); (18.875 : 13.1494750390625); (18.875 : 11.2997054036458)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/Event/Event_Ticket" />
+      <nodes>
+        <classShapeMoniker Id="3f71aaf2-52ff-44b9-b11a-36bee8f91ad9" />
+        <classShapeMoniker Id="e299c367-a71e-4889-80e0-2745dfa31270" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.343748 : 8.73240397135417); (10.343748 : 9.25); (11.6666666666667 : 9.25 : JumpStart); (11.8333333333333 : 9.25 : JumpEnd); (14.625 : 9.25); (14.625 : 10.0401025390625); (14.8541641666667 : 10.0401025390625 : JumpStart); (15.0520833333333 : 10.0401025390625 : JumpEnd); (17.1666666666667 : 10.0401025390625 : JumpStart); (17.3333333333333 : 10.0401025390625 : JumpEnd); (17.5 : 10.0401025390625); (17.5 : 9.63742435091146); (17.875 : 9.63742435091146)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/Invoice/Invoice_Ticket" />
+      <nodes>
+        <classShapeMoniker Id="4c9ddeab-3ceb-4aaa-b5c9-da70134c81d9" />
+        <classShapeMoniker Id="e299c367-a71e-4889-80e0-2745dfa31270" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.125 : 10.3013012695312); (14.9374975 : 10.3013012695312); (14.9374975 : 9.7901025390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/TicketType/TicketType_CartItem" />
+      <nodes>
+        <classShapeMoniker Id="3373dbbb-6f86-43cf-8f6b-f05df9997ce0" />
+        <classShapeMoniker Id="5e3209d7-ae26-44fc-9c84-50ae3cbd8867" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.125 : 10.4944006347656); (14.8854166666667 : 10.4944006347656 : JumpStart); (15.0520833333333 : 10.4944006347656 : JumpEnd); (17.875 : 10.4944006347656)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/TicketType/TicketType_Ticket" />
+      <nodes>
+        <classShapeMoniker Id="3373dbbb-6f86-43cf-8f6b-f05df9997ce0" />
+        <classShapeMoniker Id="e299c367-a71e-4889-80e0-2745dfa31270" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.375 : 10.8854484049479); (11.6666666666667 : 10.8854484049479 : JumpStart); (11.8333333333333 : 10.8854484049479 : JumpEnd); (12.125 : 10.8854484049479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/Event/Event_TicketType" />
+      <nodes>
+        <classShapeMoniker Id="3f71aaf2-52ff-44b9-b11a-36bee8f91ad9" />
+        <classShapeMoniker Id="3373dbbb-6f86-43cf-8f6b-f05df9997ce0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.625 : 8.125); (7.625 : 4.38544840494792); (9.375 : 4.38544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/User/User_Cart" />
+      <nodes>
+        <classShapeMoniker Id="d4d81516-ca77-4d34-baa5-cb24c0e661db" />
+        <classShapeMoniker Id="e12328f3-f0f4-4dce-af2b-53143cfc0bee" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.625 : 10.0881982421875); (7.625 : 12.0585034179688); (9.375 : 12.0585034179688)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/User/User_Event" />
+      <nodes>
+        <classShapeMoniker Id="d4d81516-ca77-4d34-baa5-cb24c0e661db" />
+        <classShapeMoniker Id="3f71aaf2-52ff-44b9-b11a-36bee8f91ad9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.625 : 8.42870198567708); (9.375 : 8.42870198567708)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/User/User_Invoice" />
+      <nodes>
+        <classShapeMoniker Id="d4d81516-ca77-4d34-baa5-cb24c0e661db" />
+        <classShapeMoniker Id="4c9ddeab-3ceb-4aaa-b5c9-da70134c81d9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.625 : 9.10659912109375); (10.2604146666667 : 9.10659912109375 : JumpStart); (10.4270813333333 : 9.10659912109375 : JumpEnd); (13.125 : 9.10659912109375); (13.125 : 8.15549967447917)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/User/User_Payment" />
+      <nodes>
+        <classShapeMoniker Id="d4d81516-ca77-4d34-baa5-cb24c0e661db" />
+        <classShapeMoniker Id="15fc5825-215b-4b01-aaad-9eccc0dc4de5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.156252 : 10.0881982421875); (8.156252 : 10.3381982421875); (11.6666666666667 : 10.3381982421875 : JumpStart); (11.8333333333333 : 10.3381982421875 : JumpEnd); (11.875 : 10.3381982421875); (11.875 : 9.375); (14.375 : 9.375); (14.375 : 10.1651025390625); (14.8541641666667 : 10.1651025390625 : JumpStart); (15.0520833333333 : 10.1651025390625 : JumpEnd); (17.25 : 10.1651025390625); (17.25 : 8.97496017545573); (17.875 : 8.97496017545573)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/User/User_Ticket" />
+      <nodes>
+        <classShapeMoniker Id="d4d81516-ca77-4d34-baa5-cb24c0e661db" />
+        <classShapeMoniker Id="e299c367-a71e-4889-80e0-2745dfa31270" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.875 : 9.09699625651042); (6.625 : 9.09699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketAppDBDataContext/Role/Role_User" />
+      <nodes>
+        <classShapeMoniker Id="de76bc56-10f5-4fc7-89bc-7ccec732830a" />
+        <classShapeMoniker Id="d4d81516-ca77-4d34-baa5-cb24c0e661db" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
